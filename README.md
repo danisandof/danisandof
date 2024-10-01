@@ -1,3 +1,9 @@
+<div align="left">
+  <img height="200" src="https://github.com/danisandof/danisandof/blob/436d4b67b1a79773f94bf3631f2bfa0c29fc936d/code_integration.png"  />
+</div>
+
+###
+
 <h1 align="left">Hola 👋 soy Daniel!</h1>
 
 ###
@@ -49,6 +55,12 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=danisandof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danisandof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danisandof.danisandof&"  />
 </div>
 
 ###
