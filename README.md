@@ -1,14 +1,14 @@
-<div align="left">
+<div align="center">
   <img height="200" src="https://github.com/danisandof/danisandof/blob/436d4b67b1a79773f94bf3631f2bfa0c29fc936d/code_integration.png"  />
 </div>
 
 ###
 
-<h1 align="left">Hola 👋 soy Daniel!</h1>
+<h1 align="center">Hola 👋 soy Daniel!</h1>
 
 ###
 
-<p align="left">Soy Desarrollador Web Frontend en México.</p>
+<p align="center">Soy Desarrollador Web Frontend en México.</p>
 
 ###
 
