@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Me desempeño como programador web en las areas de prototipado y diseño de interfaz grafica utilizando las tecnologias de la web (HTML, CSS, JS) para crear experiencias interactivas optimas.<br><br>📚 Estoy aprendiendo actualmente: Typescript, Lit, Vite, Tailwind CSS y conceptos nuevos de Wordpress.</p>
+<p align="left">✨ Me desempeño como programador web en las areas de prototipado y diseño de interfaz grafica utilizando las tecnologias de la web (HTML, CSS, JS) para crear experiencias interactivas optimas.<br><br>📚 Estoy aprendiendo actualmente: Typescript, React, Vite, Tailwind CSS y conceptos nuevos de Wordpress.</p>
 
 ###
 
