@@ -59,6 +59,10 @@
 
 ###
 
+[![roadmap.sh](https://roadmap.sh/card/tall/672708f731d65c235d5031df?variant=dark&roadmaps=react%2Ctypescript%2Cgit-github%2Cfrontend)](https://roadmap.sh)
+
+###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danisandof.danisandof&"  />
 </div>
