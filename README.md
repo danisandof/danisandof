@@ -59,7 +59,7 @@
 
 ###
 
-[![roadmap.sh](https://roadmap.sh/card/tall/672708f731d65c235d5031df?variant=dark&roadmaps=react%2Ctypescript%2Cgit-github%2Cfrontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/672708f731d65c235d5031df?variant=light&roadmaps=react%2Ctypescript%2Cgit-github%2Cfrontend)](https://roadmap.sh)
 
 ###
 
